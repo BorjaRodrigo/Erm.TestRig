@@ -1,0 +1,6 @@
+C:\Users\borja.rubio\Documents\Visual Studio 2012\Projects\Erm.Email\Erm.TestRig\Erm.TestRig.Tests\bin\Debug\Erm.TestRig.Tests.dll
+C:\Users\borja.rubio\Documents\Visual Studio 2012\Projects\Erm.Email\Erm.TestRig\Erm.TestRig.Tests\bin\Debug\Erm.TestRig.Tests.pdb
+C:\Users\borja.rubio\Documents\Visual Studio 2012\Projects\Erm.Email\Erm.TestRig\Erm.TestRig.Tests\bin\Debug\nunit.framework.dll
+C:\Users\borja.rubio\Documents\Visual Studio 2012\Projects\Erm.Email\Erm.TestRig\Erm.TestRig.Tests\bin\Debug\nunit.framework.xml
+C:\Users\borja.rubio\Documents\Visual Studio 2012\Projects\Erm.Email\Erm.TestRig\Erm.TestRig.Tests\obj\Debug\Erm.TestRig.Tests.dll
+C:\Users\borja.rubio\Documents\Visual Studio 2012\Projects\Erm.Email\Erm.TestRig\Erm.TestRig.Tests\obj\Debug\Erm.TestRig.Tests.pdb
